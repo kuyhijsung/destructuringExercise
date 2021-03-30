@@ -100,4 +100,4 @@ const raceResults = ([first, second, third, ...rest]) => ({
     third,
     rest
 });
-raceResults(['Tom', 'Margaret', 'Allison', 'David', 'Pierre'])
+raceResults(['Tom', 'Margaret', 'Allison', 'David', 'Pierre']);
